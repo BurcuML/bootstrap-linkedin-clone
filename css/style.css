@@ -4,14 +4,14 @@
   border-color: #8c8c8c33 !important;
 }
 
-input.searche {
+input.search {
   height: 36px;
   max-width: 500px;
   background-color: #eef3f8;
   border: 0;
 }
 
-input.searche::placeholder {
+input.search::placeholder {
   font-size: 14px;
   color: gray;
   background-image: url("../assets/search-solid.svg");
